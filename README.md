@@ -23,6 +23,8 @@ gradle build
 
 // Open the project in IntelliJ IDEA
 
+
+
 ## Usage
 After installation, you can run the tests directly from IntelliJ IDEA using the TestNG plugin.
 
