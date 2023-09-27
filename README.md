@@ -19,16 +19,10 @@ After installation, you can run the tests directly from IntelliJ IDEA using the 
 - **Gradle Integration**: For dependency management and automation.
 - **Object-Oriented Design**: Emphasizes OOP principles for cleaner, scalable, and maintainable code.
 
-## Tools and Technologies
-- **IntelliJ IDEA**: Preferred IDE for development.
-- **Java**: Core programming language used.
-- **TestNG**: Testing framework for organizing and running tests.
-- **Gradle**: Dependency management and build automation tool.
-
 ## Installation
 ```bash
 # Clone the repository
-git clone [Your Repository Link]
+git clone [https://github.com/babicangela/tset-tester-challenge]
 
 # Navigate to the project directory
 cd tset-tester-challenge
