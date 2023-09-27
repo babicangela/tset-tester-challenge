@@ -23,19 +23,17 @@ gradle build
 
 // Open the project in IntelliJ IDEA
 
-
-
-## Usage
+Usage
 After installation, you can run the tests directly from IntelliJ IDEA using the TestNG plugin.
 
-## Main Features
-- **Functional Testing**: Conducts basic functionality tests for the target Vue application.
-- **Page Object Model (POM)**: Design pattern used for enhancing test maintenance and reducing code duplication.
-- **Gradle Integration**: For dependency management and automation.
-- **Object-Oriented Design**: Emphasizes OOP principles for cleaner, scalable, and maintainable code.
+Main Features
+Functional Testing: Conducts basic functionality tests for the target Vue application.
+Page Object Model (POM): Design pattern used for enhancing test maintenance and reducing code duplication.
+Gradle Integration: For dependency management and automation.
+Object-Oriented Design: Emphasizes OOP principles for cleaner, scalable, and maintainable code.
 
-## Tools and Technologies
-- **IntelliJ IDEA**: Preferred IDE for development.
-- **Java**: Core programming language used.
-- **TestNG**: Testing framework for organizing and running tests.
-- **Gradle**: Dependency management and build automation tool.
+Tools and Technologies
+IntelliJ IDEA: Preferred IDE for development.
+Java: Core programming language used.
+TestNG: Testing framework for organizing and running tests.
+Gradle: Dependency management and build automation tool.
