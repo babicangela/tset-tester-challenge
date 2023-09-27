@@ -10,7 +10,7 @@ Ensure you have the following installed:
 - Gradle (if not bundled with IntelliJ IDEA)
 - TestNG plugin for IntelliJ IDEA
 
-  ## Usage
+## Usage
 After installation, you can run the tests directly from IntelliJ IDEA using the TestNG plugin.
 
 ## Main Features
